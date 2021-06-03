@@ -13,7 +13,7 @@
     <a href="https://aid.autoai.org"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=0TU28hkx7KE&t=33s">Video Demo</a>
+    <a href="https://www.youtube.com/watch?v=0TU28hkx7KE">Video Demo</a>
     ·
     <a href="https://github.com/autoai-org/aid/issues">Report Bug</a>
     ·
@@ -24,3 +24,17 @@
 ## Intro
 
 AID is a DevOps System that is dedicated to machine learning. We will upload periodical releases in this repository. Stay tuned!
+
+### Stable Releases
+
+The stable releases can be downloaded [here](https://github.com/eth-library-lab). The installation scripts that automatically fetch the latest binary will be provided later on.
+
+### Edge Releases
+
+Automatic builds will be uploaded to [Testing Repository](https://releases.autoai.org/aid/components/cmd/tui/). You can download the latest version there. The edge releases are not tested manually, and please be noted that
+
+* These executable binaries are built for **x86_64** architecture only.
+* The MacOS version may not work with Apple Silicon, even with Rosetta. There might be some issues with the Docker in the host.
+* The Windows version, though provided, is still not recommended and is not a classic use case. We recommend to use the Windows Subsystems for Linux (WSL).
+
+For more information about the releases, please take a look at the [documentation](https://aid.autoai.org/docs/pages/releases).
