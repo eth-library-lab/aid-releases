@@ -39,9 +39,11 @@ If you want the edge version, use the following command:
 curl https://releases.autoai.org/aid/install.sh | bash -s -- edge
 ```
 
+For the full installation guidelines (including the requirements of the system), please take a look at [installation documents](https://aid.autoai.org/docs/getting-started/installation).
+
 ### Stable Releases
 
-The stable releases can be downloaded [here](https://github.com/eth-library-lab). The installation scripts that automatically fetch the latest binary will be provided later on.
+The stable releases can be downloaded [here](https://github.com/eth-library-lab/aid-releases/releases).
 
 ### Edge Releases
 
