@@ -18,6 +18,7 @@ fi
 
 # First check OS.
 OS="$(uname)"
+AID_ON_LINUX=0
 if [[ "$OS" == "Linux" ]]; then
   AID_ON_LINUX=1
 elif [[ "$OS" != "Darwin" ]]; then

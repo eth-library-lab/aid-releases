@@ -25,6 +25,20 @@
 
 AID is a DevOps System that is dedicated to machine learning. We will upload periodical releases in this repository. Stay tuned!
 
+## Installation
+
+You can install the software by running the following command in your terminal:
+
+```
+curl https://releases.autoai.org/aid/install.sh | bash -s
+```
+
+If you want the edge version, use the following command:
+
+```
+curl https://releases.autoai.org/aid/install.sh | bash -s -- edge
+```
+
 ### Stable Releases
 
 The stable releases can be downloaded [here](https://github.com/eth-library-lab). The installation scripts that automatically fetch the latest binary will be provided later on.
