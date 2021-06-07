@@ -39,7 +39,7 @@ If you want the edge version, use the following command:
 curl https://releases.autoai.org/aid/install.sh | bash -s -- edge
 ```
 
-For the full installation guidelines (including the requirements of the system), please take a look at [installation documents](https://aid.autoai.org/docs/getting-started/installation).
+For the full installation guidelines (including the requirements of the system), please take a look at [installation](https://aid.autoai.org/docs/getting-started/installation).
 
 ### Stable Releases
 
